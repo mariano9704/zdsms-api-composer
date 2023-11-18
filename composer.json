@@ -20,6 +20,5 @@
             "email": "mariano@zonadigital.cu"
         }
     ],
-    "license": "Apache-2.0",
-    "minimum-stability": "stable"
+    "license": "Apache-2.0"
 }
