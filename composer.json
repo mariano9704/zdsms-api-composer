@@ -2,8 +2,8 @@
     "name": "zonadigital/zdsms",
     "description": "Enviar SMS a Cuba a través de zdSMS",
     "require": {
-        "guzzlehttp/guzzle": "^7.9.3",
-        "illuminate/http": "^10.48.28"
+        "guzzlehttp/guzzle": "*",
+        "illuminate/http": "*"
     },
     "autoload": {
         "psr-4": {
